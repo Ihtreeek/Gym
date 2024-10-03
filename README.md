@@ -1,2 +1,3 @@
-# swoley-fit
+Active Life
+
  The ultimate gym training app built with react & tailwindCSS
